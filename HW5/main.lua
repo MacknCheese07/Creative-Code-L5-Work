@@ -4,9 +4,9 @@ function setup()
   size(400, 400)
 
   -- Set the program title
-  windowTitle("Basic sketch")
+  windowTitle("HW5 Cityscape")
 
-  describe('Draws a yellow background')
+  describe('Draws a super cool cityscape.')
 end
 
 function draw()
