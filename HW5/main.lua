@@ -54,5 +54,4 @@ function draw()
   quad(width*0.5, height*0.45, width*0.85,height*0.57, width*0.85, height, width*0.5, height)
   quad(width*0.45, height*0.57, width*0.6, height*0.5, width*0.6, height, width*0.45,height)
   quad(width*0.4, height*0.6, width*0.9,height*0.55, width*0.9, height, width*0.4, height)
-
 end
