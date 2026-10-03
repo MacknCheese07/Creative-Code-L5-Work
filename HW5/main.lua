@@ -13,13 +13,8 @@ function draw()
   -- Fills the background with the color yellow
   background(76,201,240)
   noStroke()
-  -- Makes a rectangle that stays in a quater of the screen, no matter the size of the window.
-  fill(18,0,41)
-  rect(width/2,height/2,width/2,height/2)
 
-  fill(255, 0, 0)
-  ellipse(mouseX,height/2,width/4,height/4)
-
+ 
     -- First two Rays of light blue light
   noStroke()
   fill(72,149,239)
